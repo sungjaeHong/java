@@ -27,7 +27,6 @@ String name3 = new String("홍성재");
 
 name1 == name2		//true
 name1 == name3		//false
-
 name1.equals(name3)	//true
 ```
 ![](https://github.com/sungjaeHong/java/blob/master/image/String4.PNG?raw=true)
